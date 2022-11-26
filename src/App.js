@@ -1,5 +1,5 @@
-import React from 'react'
-import navBar from './components/navBar/navBar'
+import React from "react";
+import navBar from "./components/navBar/navBar";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <navBar/>
       
     </div>
-  )
+  );
 }
 
 export default App
